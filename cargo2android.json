@@ -5,5 +5,6 @@
   ],
   "device": true,
   "force-rlib": true,
-  "run": true
+  "run": true,
+  "vendor-available": true
 }
