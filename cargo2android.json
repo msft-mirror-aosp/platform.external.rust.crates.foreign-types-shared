@@ -1,0 +1,10 @@
+{
+  "apex-available": [
+    "//apex_available:platform",
+    "com.android.virt"
+  ],
+  "device": true,
+  "force-rlib": true,
+  "run": true,
+  "vendor-available": true
+}
