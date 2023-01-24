@@ -8,19 +8,46 @@
       "name": "authfs_device_test_src_lib"
     },
     {
+      "name": "avmdtool.test"
+    },
+    {
+      "name": "avmdtool_tests"
+    },
+    {
+      "name": "compos_verify.test"
+    },
+    {
+      "name": "composd_cmd.test"
+    },
+    {
+      "name": "fd_server.test"
+    },
+    {
+      "name": "keystore2_client_tests"
+    },
+    {
       "name": "libapkverify.integration_test"
     },
     {
       "name": "libapkverify.test"
     },
     {
-      "name": "libidsig.test"
+      "name": "libpvmfw_avb.integration_test"
     },
     {
       "name": "microdroid_manager_test"
     },
     {
-      "name": "virtualizationservice_device_test"
+      "name": "rialto_test"
+    },
+    {
+      "name": "virtualizationmanager_device_test"
+    },
+    {
+      "name": "vm.test"
+    },
+    {
+      "name": "vmbase_example.integration_test"
     }
   ],
   "presubmit-rust": [
@@ -31,19 +58,46 @@
       "name": "authfs_device_test_src_lib"
     },
     {
+      "name": "avmdtool.test"
+    },
+    {
+      "name": "avmdtool_tests"
+    },
+    {
+      "name": "compos_verify.test"
+    },
+    {
+      "name": "composd_cmd.test"
+    },
+    {
+      "name": "fd_server.test"
+    },
+    {
+      "name": "keystore2_client_tests"
+    },
+    {
       "name": "libapkverify.integration_test"
     },
     {
       "name": "libapkverify.test"
     },
     {
-      "name": "libidsig.test"
+      "name": "libpvmfw_avb.integration_test"
     },
     {
       "name": "microdroid_manager_test"
     },
     {
-      "name": "virtualizationservice_device_test"
+      "name": "rialto_test"
+    },
+    {
+      "name": "virtualizationmanager_device_test"
+    },
+    {
+      "name": "vm.test"
+    },
+    {
+      "name": "vmbase_example.integration_test"
     }
   ]
 }
